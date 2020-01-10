@@ -1,1 +1,1 @@
-# Piskel-clone bundle
+# Piskel clone bundle
